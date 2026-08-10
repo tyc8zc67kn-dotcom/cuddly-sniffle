@@ -1,0 +1,17 @@
+{
+  "name": "LITH LIFE ARCHIVE",
+  "short_name": "LITH ARCHIVE",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070911",
+  "theme_color": "#070911",
+  "description": "LITH LIFE ARCHIVE — playable biography public final",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
