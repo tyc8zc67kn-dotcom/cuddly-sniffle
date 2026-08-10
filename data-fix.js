@@ -1,0 +1,1 @@
+window.LITH_PUBLIC_RC.mediaRecords=window.LITH_PUBLIC_RC.mediaRecords||[];
